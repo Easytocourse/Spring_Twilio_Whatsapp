@@ -1,0 +1,6 @@
+twilio:
+  account_sid: your account_sid
+  auth_token: your auth_token
+  from_number: "your whatsapp from_number from twilio"
+  
+  
